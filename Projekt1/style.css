@@ -1,0 +1,13 @@
+/*
+Author: Gustav Grännsjö
+Contact: gustav.grannsjo.te12d@gmail.com
+Description: A basic CSS file.
+*/
+/*Solving boxmodel Hack*/
+body{
+	background-color: #28d6d6;
+	width: 100%;
+}
+#container{
+border: 1px solid #FF0000;
+}
